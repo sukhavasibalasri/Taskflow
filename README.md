@@ -238,7 +238,7 @@ with your local MySQL password.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TaskFlow.git
+git clone https://github.com/sukhavasibalasri/TaskFlow.git
 ```
 
 Move into the project:
@@ -455,29 +455,21 @@ Example:
 
 ```markdown
 ## 📸 Screenshots
+### 🏠 Home Page
+<img width="893" height="461" alt="Screenshot 2026-09-08 195131" src="https://github.com/user-attachments/assets/24a84ca4-07dd-44d3-a5fc-7acd6fd47d2a" />
 
-### Home Page
-![Home Page]()
 
 ### Login Page
-![Login Page](screenshots/login.png)
+<img width="956" height="400" alt="Screenshot 2026-09-08 195152" src="https://github.com/user-attachments/assets/6a86f5c8-15a1-4ea3-ad05-0ec89f942bee" />
+
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="952" height="446" alt="Screenshot 2026-09-08 195214" src="https://github.com/user-attachments/assets/dcd1ceb7-6d9d-48bb-bc74-855990076f97" />
+
 
 ### Task Management
-![Tasks](screenshots/tasks.png)
-```
+<img width="922" height="431" alt="Screenshot 2026-09-08 195207" src="https://github.com/user-attachments/assets/7646d7b0-d788-4091-9e46-e21c36d1b103" />
 
-Create a folder:
-
-```text
-screenshots/
-```
-
-and place your screenshots inside it.
-
----
 
 ## 🔐 Current Authentication
 
