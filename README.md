@@ -93,10 +93,10 @@ The project demonstrates how a **frontend application communicates with a Java S
                     ┌─────────────────────┐
                     │       Backend       │
                     │                     │
-                    │   Spring Boot      │
-                    │   Controllers       │
-                    │   Services          │
-                    │   Repositories      │
+                    │    Spring Boot      │
+                    │    Controllers      │
+                    │    Services         │
+                    │    Repositories     │
                     └──────────┬──────────┘
                                │
                                │ JPA / Hibernate
@@ -104,7 +104,7 @@ The project demonstrates how a **frontend application communicates with a Java S
                     ┌─────────────────────┐
                     │      MySQL DB       │
                     │                     │
-                    │ Users + Tasks       │
+                    │    Users + Tasks    │
                     └─────────────────────┘
 ```
 
@@ -229,13 +229,13 @@ YOUR_PASSWORD
 
 with your local MySQL password.
 
-**Do not upload your real database password to GitHub.**
+> ⚠️ **Security:** Never upload your real MySQL password to GitHub.
 
 ---
 
 ## ▶️ How to Run the Project
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/sukhavasibalasri/TaskFlow.git
@@ -297,7 +297,7 @@ The TaskFlow application will open in your browser.
 
 ## 🔗 REST API Endpoints
 
-### Authentication
+### 🔐 Authentication
 
 #### Register User
 
@@ -334,7 +334,7 @@ Example request:
 
 ---
 
-### Tasks
+### 📋 Tasks
 
 #### Get User Tasks
 
@@ -449,26 +449,24 @@ Logout
 
 ## 📸 Screenshots
 
-Add screenshots of your application here after completing the UI.
-
-Example:
-
-```markdown
-## 📸 Screenshots
 ### 🏠 Home Page
-<img width="893" height="461" alt="Screenshot 2026-09-08 195131" src="https://github.com/user-attachments/assets/24a84ca4-07dd-44d3-a5fc-7acd6fd47d2a" />
 
+<img width="893" height="461" alt="TaskFlow Home Page" src="https://github.com/user-attachments/assets/24a84ca4-07dd-44d3-a5fc-7acd6fd47d2a" />
 
-### Login Page
-<img width="956" height="400" alt="Screenshot 2026-09-08 195152" src="https://github.com/user-attachments/assets/6a86f5c8-15a1-4ea3-ad05-0ec89f942bee" />
+### 🔐 Login Page
 
+<img width="956" height="400" alt="TaskFlow Login Page" src="https://github.com/user-attachments/assets/6a86f5c8-15a1-4ea3-ad05-0ec89f942bee" />
 
-### Dashboard
-<img width="952" height="446" alt="Screenshot 2026-09-08 195214" src="https://github.com/user-attachments/assets/dcd1ceb7-6d9d-48bb-bc74-855990076f97" />
+### 📋 Dashboard
 
+<img width="952" height="446" alt="TaskFlow Dashboard" src="https://github.com/user-attachments/assets/dcd1ceb7-6d9d-48bb-bc74-855990076f97" />
 
-### Task Management
-<img width="922" height="431" alt="Screenshot 2026-09-08 195207" src="https://github.com/user-attachments/assets/7646d7b0-d788-4091-9e46-e21c36d1b103" />
+### ✅ Task Management
+
+<img width="922" height="431" alt="TaskFlow Task Management" src="https://github.com/user-attachments/assets/7646d7b0-d788-4091-9e46-e21c36d1b103" />
+
+---
+
 ## 🔐 Current Authentication
 
 The current version uses **simple authentication** through the Spring Boot backend.
@@ -478,7 +476,16 @@ User information is temporarily stored in browser `localStorage`:
 ```javascript
 localStorage.setItem("userId", user.id);
 localStorage.setItem("userName", user.name);
+```
 
+Logout removes these values:
+
+```javascript
+localStorage.removeItem("userId");
+localStorage.removeItem("userName");
+```
+
+---
 
 ## 🚀 Future Enhancements
 
@@ -530,7 +537,7 @@ Prasad V. Potluri Siddhartha Institute of Technology
 
 ---
 
-## ⭐ If you like this project
+## ⭐ If You Like This Project
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
 
