@@ -471,25 +471,6 @@ Example:
 <img width="922" height="431" alt="Screenshot 2026-09-08 195207" src="https://github.com/user-attachments/assets/7646d7b0-d788-4091-9e46-e21c36d1b103" />
 
 
-## 🔐 Current Authentication
-
-The current version uses **simple authentication** through the Spring Boot backend.
-
-User information is temporarily stored in browser `localStorage`:
-
-```javascript
-localStorage.setItem("userId", user.id);
-localStorage.setItem("userName", user.name);
-```
-
-Logout removes these values:
-
-```javascript
-localStorage.removeItem("userId");
-localStorage.removeItem("userName");
-```
-
----
 
 ## 🚀 Future Enhancements
 
