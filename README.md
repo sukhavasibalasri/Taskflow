@@ -455,8 +455,8 @@ Logout
 
 
 ### 🔐 Login Page
-<img width="952" height="446" alt="TaskFlow Dashboard" src="https://github.com/user-attachments/assets/dcd1ceb7-6d9d-48bb-bc74-855990076f97" />
-<img width="956" height="400" alt="TaskFlow Login Page" src="https://github.com/user-attachments/assets/6a86f5c8-15a1-4ea3-ad05-0ec89f942bee" />
+<img width="879" height="395" alt="Screenshot 2026-09-08 202051" src="https://github.com/user-attachments/assets/e5bced33-ca12-40bc-bfa4-ed47c359f495" />
+
 
 ### 📋 Register
 <img width="922" height="431" alt="TaskFlow Task Management" src="https://github.com/user-attachments/assets/7646d7b0-d788-4091-9e46-e21c36d1b103" />
