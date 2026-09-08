@@ -451,19 +451,20 @@ Logout
 
 ### 🏠 Home Page
 
-<img width="893" height="461" alt="TaskFlow Home Page" src="https://github.com/user-attachments/assets/24a84ca4-07dd-44d3-a5fc-7acd6fd47d2a" />
+<img width="941" height="386" alt="Screenshot 2026-09-08 201648" src="https://github.com/user-attachments/assets/8e336022-c538-4f6d-a0b1-28d0875e7367" />
+
 
 ### 🔐 Login Page
-
+<img width="952" height="446" alt="TaskFlow Dashboard" src="https://github.com/user-attachments/assets/dcd1ceb7-6d9d-48bb-bc74-855990076f97" />
 <img width="956" height="400" alt="TaskFlow Login Page" src="https://github.com/user-attachments/assets/6a86f5c8-15a1-4ea3-ad05-0ec89f942bee" />
 
-### 📋 Dashboard
+### 📋 Register
+<img width="922" height="431" alt="TaskFlow Task Management" src="https://github.com/user-attachments/assets/7646d7b0-d788-4091-9e46-e21c36d1b103" />
 
-<img width="952" height="446" alt="TaskFlow Dashboard" src="https://github.com/user-attachments/assets/dcd1ceb7-6d9d-48bb-bc74-855990076f97" />
 
 ### ✅ Task Management
+<img width="893" height="461" alt="TaskFlow Home Page" src="https://github.com/user-attachments/assets/24a84ca4-07dd-44d3-a5fc-7acd6fd47d2a" />
 
-<img width="922" height="431" alt="TaskFlow Task Management" src="https://github.com/user-attachments/assets/7646d7b0-d788-4091-9e46-e21c36d1b103" />
 
 ---
 
