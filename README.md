@@ -538,12 +538,6 @@ Prasad V. Potluri Siddhartha Institute of Technology
 
 ---
 
-## ⭐ If You Like This Project
-
-If you find this project useful, consider giving it a ⭐ on GitHub!
-
----
-
 ## 📄 License
 
 This project is created for **educational and learning purposes**.
